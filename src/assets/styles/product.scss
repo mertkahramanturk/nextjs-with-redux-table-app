@@ -1,0 +1,49 @@
+.products-wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+    .product {
+        border: 1px dashed #000000;
+        padding: 8px;
+          
+      .product-title {
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+      }
+      
+      }
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th,
+td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+th:nth-child(1){
+  width: 50px !important;
+}
+th:nth-child(2){
+  width: 50px !important;
+}
+
+
+.resize-handle {
+  height: 100vh;
+  position: absolute;
+  right: 5px;
+  top: 50%;
+  cursor: col-resize;
+  background-color: transparent;
+opacity: 1;
+color: rgb(176, 176, 176);
+}

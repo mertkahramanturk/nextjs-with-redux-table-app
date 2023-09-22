@@ -1,0 +1,21 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("app/category/[[...id]]/page",{
+
+/***/ "(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fmertkahramanturk%2FDesktop%2Fnextjs-with-redux-table-app%2Fsrc%2Fcomponents%2Fadd-basket-button%2Findex.tsx&modules=%2FUsers%2Fmertkahramanturk%2FDesktop%2Fnextjs-with-redux-table-app%2Fsrc%2Fcomponents%2Ftable%2FTable.tsx&server=false!":
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fmertkahramanturk%2FDesktop%2Fnextjs-with-redux-table-app%2Fsrc%2Fcomponents%2Fadd-basket-button%2Findex.tsx&modules=%2FUsers%2Fmertkahramanturk%2FDesktop%2Fnextjs-with-redux-table-app%2Fsrc%2Fcomponents%2Ftable%2FTable.tsx&server=false! ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
+
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./src/components/add-basket-button/index.tsx */ \"(app-client)/./src/components/add-basket-button/index.tsx\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./src/components/table/Table.tsx */ \"(app-client)/./src/components/table/Table.tsx\"))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1jbGllbnQpLy4vbm9kZV9tb2R1bGVzL25leHQvZGlzdC9idWlsZC93ZWJwYWNrL2xvYWRlcnMvbmV4dC1mbGlnaHQtY2xpZW50LWVudHJ5LWxvYWRlci5qcz9tb2R1bGVzPSUyRlVzZXJzJTJGbWVydGthaHJhbWFudHVyayUyRkRlc2t0b3AlMkZuZXh0anMtd2l0aC1yZWR1eC10YWJsZS1hcHAlMkZzcmMlMkZjb21wb25lbnRzJTJGYWRkLWJhc2tldC1idXR0b24lMkZpbmRleC50c3gmbW9kdWxlcz0lMkZVc2VycyUyRm1lcnRrYWhyYW1hbnR1cmslMkZEZXNrdG9wJTJGbmV4dGpzLXdpdGgtcmVkdXgtdGFibGUtYXBwJTJGc3JjJTJGY29tcG9uZW50cyUyRnRhYmxlJTJGVGFibGUudHN4JnNlcnZlcj1mYWxzZSEuanMiLCJtYXBwaW5ncyI6IkFBQUEsMk1BQTJJO0FBQzNJIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8/ZDExZiJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQoLyogd2VicGFja01vZGU6IFwiZWFnZXJcIiAqLyBcIi9Vc2Vycy9tZXJ0a2FocmFtYW50dXJrL0Rlc2t0b3AvbmV4dGpzLXdpdGgtcmVkdXgtdGFibGUtYXBwL3NyYy9jb21wb25lbnRzL2FkZC1iYXNrZXQtYnV0dG9uL2luZGV4LnRzeFwiKTtcbmltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiICovIFwiL1VzZXJzL21lcnRrYWhyYW1hbnR1cmsvRGVza3RvcC9uZXh0anMtd2l0aC1yZWR1eC10YWJsZS1hcHAvc3JjL2NvbXBvbmVudHMvdGFibGUvVGFibGUudHN4XCIpIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fmertkahramanturk%2FDesktop%2Fnextjs-with-redux-table-app%2Fsrc%2Fcomponents%2Fadd-basket-button%2Findex.tsx&modules=%2FUsers%2Fmertkahramanturk%2FDesktop%2Fnextjs-with-redux-table-app%2Fsrc%2Fcomponents%2Ftable%2FTable.tsx&server=false!\n"));
+
+/***/ })
+
+});
