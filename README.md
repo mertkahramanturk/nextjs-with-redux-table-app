@@ -7,11 +7,11 @@ This repository contains examples of state management in Next.js 13 which use Ap
 Since Next.js 13 uses React server components we don't have official support for Redux support yet. However, we can use Redux with Next.js 13 using App Directory features.
 
 
-# PROJECT BLAH BLAH
+# PROJECT 
 
 ## Gereksinimler
 
-Projeyi çalıştırmak için bilgisayar ortamında Node v 14.18.1 ve npm v6.14.15 kurulu olmalıdır.
+Projeyi çalıştırmak için bilgisayar ortamında Node  v18.12.1 ve npm  v18.12.1 kurulu olmalıdır.
 
 ### Node
 
